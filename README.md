@@ -2,11 +2,6 @@
 
 A responsive and elegant sidebar navigation UI built using **HTML**, **CSS**, and **Font Awesome icons**. This project demonstrates how to create a hidden sliding sidebar that reveals navigation links and social media icons when toggled.
 
-## 🔗 Live Demo
-
-[Click here to see a live demo](#) *(replace `#` with GitHub Pages or live hosting URL)*
-
----
 
 ## 🧰 Tech Stack
 
